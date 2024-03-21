@@ -9,7 +9,8 @@ Our focus is on the encryption methods, erasure coding for data redundancy, the 
 <br>
 
 
-<img src="https://i.ibb.co/V3nyDTH/equazione-1.png" border="0">
+![equazione 1](https://github.com/SolCLoudStorage/SolCloudAlgo/assets/164239495/58d6b744-10a9-46ab-87c8-032c80c43cad)
+
 
 
 
