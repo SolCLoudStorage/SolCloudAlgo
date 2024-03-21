@@ -9,17 +9,18 @@ Our focus is on the encryption methods, erasure coding for data redundancy, the 
 <br>
 
 
-<img src="https://i.ibb.co/V3nyDTH/equazione-1.png" alt="equazione-1" border="0">
+<img src="https://i.ibb.co/V3nyDTH/equazione-1.png" border="0">
 
 
 
 <br>
 
 
-<img src="https://i.ibb.co/J35JXjP/equazione2.png" alt="equazione2" border="0">
+<img src="https://i.ibb.co/J35JXjP/equazione2.png" border="0">
 
 <br>
-<img src="https://i.ibb.co/NVWZ5nr/equazione-3.png" alt="equazione-3" border="0">
+
+<img src="https://i.ibb.co/NVWZ5nr/equazione-3.png"  border="0">
 
 <br>
 
