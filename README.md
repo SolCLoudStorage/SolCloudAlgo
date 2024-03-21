@@ -20,7 +20,7 @@ Our focus is on the encryption methods, erasure coding for data redundancy, the 
 
 <br>
 
-<<img src='https://i.postimg.cc/R69Pfp2R/equazione-3.png' border='0'/>
+<img src='https://i.postimg.cc/R69Pfp2R/equazione-3.png' border='0'>
 
 <br>
 
