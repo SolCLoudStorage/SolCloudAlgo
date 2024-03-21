@@ -8,16 +8,14 @@ Our focus is on the encryption methods, erasure coding for data redundancy, the 
 <p><b>SolCloud employs a hybrid encryption model, combining the speed of symmetric encryption (AES) with the security of asymmetric encryption (RSA).</b></p>
 <br>
 
-
-![equazione 1](https://github.com/SolCLoudStorage/SolCloudAlgo/assets/164239495/58d6b744-10a9-46ab-87c8-032c80c43cad)
-
+<img src="https://i.ibb.co/J35JXjP/equazione2.png" border="0">
 
 
 
 <br>
 
 
-<img src="https://i.ibb.co/J35JXjP/equazione2.png" border="0">
+![equazione 1](https://github.com/SolCLoudStorage/SolCloudAlgo/assets/164239495/58d6b744-10a9-46ab-87c8-032c80c43cad)
 
 <br>
 
