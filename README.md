@@ -15,11 +15,11 @@ Our focus is on the encryption methods, erasure coding for data redundancy, the 
 <br>
 
 
-![equazione 1](https://github.com/SolCLoudStorage/SolCloudAlgo/assets/164239495/58d6b744-10a9-46ab-87c8-032c80c43cad)
+![log1](https://github.com/SolCLoudStorage/SolCloudAlgo/assets/164239495/58d6b744-10a9-46ab-87c8-032c80c43cad)
 
 <br>
 
-![equazione 3](https://github.com/SolCLoudStorage/SolCloudAlgo/assets/164239495/aedca871-87d2-47ab-80c7-3edbded00985)
+![log2](https://github.com/SolCLoudStorage/SolCloudAlgo/assets/164239495/aedca871-87d2-47ab-80c7-3edbded00985)
 
 
 <br>
